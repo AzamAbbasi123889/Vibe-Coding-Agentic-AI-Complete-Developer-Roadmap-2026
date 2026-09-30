@@ -1,57 +1,373 @@
-<p align="center"><img src="assets/banner.svg" alt="Vibe Coding Course" width="100%"></p>
+<div align="center">
 
-# Vibe Coding: The Complete Course
+👋 Hi, I'm Azam Abbasi
 
-Learn to build real software by working with AI coding tools, without turning into someone who pastes code they do not understand.
+AI Engineering • GenAI • AI Agents • RAG • Full-Stack AI
 
-**Vibe coding** means describing what you want in plain language and letting an AI write the code, while you steer, run, review and refine. The term was popularised by Andrej Karpathy in early 2025. This course keeps the speed of that idea and adds the engineering habits that make the result safe, maintainable and yours.
+Building practical AI systems that can reason, retrieve, automate, and ship.
 
-## Who this is for
+LLMs • Agents • RAG • Multimodal AI • APIs • Automation • Cloud • DevOps
 
-- Students and beginners who want to ship projects fast
-- Developers who want a structured workflow for AI-assisted coding
-- Founders and makers who want prototypes without a full team
+GitHub • LinkedIn • Email
 
-No prior experience is required. Module 02 covers the fundamentals you still need.
+</div>
 
-## How the course is organised
+🧭 Quick Navigation
 
-<p align="center"><img src="assets/roadmap.svg" alt="6 week roadmap" width="85%"></p>
+<div align="center">
 
-| # | Module | You will learn |
-|---|--------|----------------|
-| 00 | [Start here](modules/00-start-here.md) | How to use this course, setup checklist |
-| 01 | [What is vibe coding](modules/01-what-is-vibe-coding.md) | History, mindset, when it works and when it fails |
-| 02 | [Fundamentals you still need](modules/02-fundamentals.md) | Terminal, Git, HTTP, JSON, reading code |
-| 03 | [The tool landscape](modules/03-tool-landscape.md) | App builders, AI editors, terminal agents |
-| 04 | [Prompting for code](modules/04-prompting.md) | Prompt anatomy, patterns, anti-patterns |
-| 05 | [The workflow](modules/05-workflow.md) | Spec, plan, generate, review, commit |
-| 06 | [Context engineering](modules/06-context-engineering.md) | Rules files, memory, MCP, managing the context window |
-| 07 | [Hands-on tool tutorials](modules/07-hands-on-tutorials.md) | Step-by-step in each tool category |
-| 08 | [Debugging and testing](modules/08-debugging-testing.md) | Fix errors with AI, write tests, verify output |
-| 09 | [Security and quality](modules/09-security-quality.md) | Secrets, injection, dependency risks, code review |
-| 10 | [Deploying](modules/10-deploying.md) | GitHub, Vercel, Render, CI, environment variables |
-| 11 | [Agents and advanced workflows](modules/11-agents-advanced.md) | Sub-agents, MCP servers, automation, parallel work |
-| 12 | [Capstone and career](modules/12-capstone-career.md) | Final project, portfolio, next steps |
+About • Tech Stack • Projects • What I Build • Workflow • Roadmap • Contact
 
-Supporting material:
+</div>
 
-- [`projects/`](projects/) five guided build projects from beginner to advanced
-- [`exercises/`](exercises/) practice tasks and quizzes per module
-- [`resources/`](resources/) glossary, cheat sheet, prompt library, tool comparison
+👨‍💻 About Me
 
-## Suggested pace
+I'm an AI Engineering student focused on building practical software with LLMs, AI agents, RAG, automation and cloud infrastructure.
 
-Six weeks at 6 to 8 hours per week. Do one module and one exercise set per session, and ship one small thing every week.
+I like taking an idea through the complete engineering loop:
 
-## A note on tools
+Idea → Specification → Architecture → Build → Test → Evaluate → Deploy → Monitor → Improve
 
-AI tools change quickly: names, pricing, limits and models shift every few months. This course teaches **transferable skills** and names tools as examples. Always check each tool's official documentation for current features and pricing before you commit.
+<details>
+<summary><b>🎯 What I focus on</b></summary>
 
-## Contributing
+LLM-powered applications and AI copilots
 
-Found a mistake or an outdated tool? Open an issue or pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Agentic systems with planning, memory and tools
 
-## License
+RAG pipelines with retrieval, reranking and citations
 
-Content is released under the MIT License. See [LICENSE](LICENSE).
+Multimodal AI applications
+
+Data + AI products with SQL and vector databases
+
+Automation using n8n and browser/API tooling
+
+Production APIs, Docker, CI/CD and cloud deployment
+
+</details>
+
+🧰 Tech Stack
+
+<table>
+<tr>
+<td width="24%"><b>🐍 Languages</b></td>
+<td>Python · C · C++ · Java · JavaScript · SQL · Bash · JSON · YAML</td>
+</tr>
+<tr>
+<td><b>🧠 ML / DL</b></td>
+<td>PyTorch · TensorFlow · Keras · scikit-learn · Transformers · CNNs · RNNs · LSTMs · Model Evaluation</td>
+</tr>
+<tr>
+<td><b>✨ GenAI / LLMs</b></td>
+<td>OpenAI / GPT · Claude · Gemini / Gemma · Groq · Hugging Face · Prompt Engineering · Context Engineering · Tool Calling · Structured Outputs</td>
+</tr>
+<tr>
+<td><b>🤖 Agentic AI</b></td>
+<td>AI Agents · Planning · Tool Use · Function Calling · Memory · State Management · Routing · Multi-Agent Workflows · MCP · Guardrails · Human-in-the-Loop</td>
+</tr>
+<tr>
+<td><b>📚 RAG / Knowledge</b></td>
+<td>Embeddings · Vector Search · BM25 · Hybrid Retrieval · Reranking · Citations · RAG Evaluation · GraphRAG · Knowledge Graphs</td>
+</tr>
+<tr>
+<td><b>🔗 AI Frameworks</b></td>
+<td>LangChain · LangGraph · LlamaIndex · Hugging Face Ecosystem · Retrieval Pipelines · Evaluation Workflows</td>
+</tr>
+<tr>
+<td><b>⚡ Backend / APIs</b></td>
+<td>FastAPI · Node.js · Express · REST APIs · WebSockets · OAuth · Webhooks · Pydantic · API Error Handling · Streaming</td>
+</tr>
+<tr>
+<td><b>🎨 Frontend</b></td>
+<td>React · Vite · Tailwind CSS · shadcn/ui · React Router · Axios · Responsive UI · AI Chat Interfaces · Dashboards</td>
+</tr>
+<tr>
+<td><b>🗄️ Data Systems</b></td>
+<td>PostgreSQL · MongoDB Atlas · Redis · Pinecone · Neo4j · SQL Analytics · Data Modeling · Vector Search · Graph Modeling</td>
+</tr>
+<tr>
+<td><b>🔁 Automation</b></td>
+<td>n8n · Playwright · Selenium · Browser Automation · API Integrations · Scheduled Workflows · Approvals · Retries</td>
+</tr>
+<tr>
+<td><b>☁️ Cloud / DevOps</b></td>
+<td>Docker · Docker Compose · GitHub Actions · CI/CD · AWS · Azure · Vercel · Render · Netlify · Nginx · Monitoring</td>
+</tr>
+<tr>
+<td><b>🧰 Developer Tools</b></td>
+<td>Git · GitHub · GitHub CLI · VS Code · Jupyter · Postman · Linux / Terminal · Virtual Environments · Debugging</td>
+</tr>
+</table>
+
+🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+🧠 InsightRAG
+
+Enterprise Intelligence Copilot
+
+RAG + hybrid retrieval + SQL analytics + knowledge graphs + evidence-backed answers.
+
+Repository →
+
+</td>
+<td width="50%">
+
+🕸️ Nexus-AI
+
+Knowledge Graph AI System
+
+LLM memory, graph intelligence, retrieval and agent-oriented knowledge workflows.
+
+Repository →
+
+</td>
+</tr>
+<tr>
+<td>
+
+🛟 OmniSupport AI
+
+Multimodal Enterprise Support Agent
+
+Support + troubleshooting with multimodal inputs, retrieval and agent workflows.
+
+Repository →
+
+</td>
+<td>
+
+💼 AI Auto Apply Job Agent
+
+Agentic Job Automation
+
+Job discovery, browser automation, workflow orchestration and human verification.
+
+Repository →
+
+</td>
+</tr>
+<tr>
+<td>
+
+🔧 Daily GitHub Agent
+
+Developer Workflow Automation
+
+GitHub + LLM + automation for repository and development workflows.
+
+Repository →
+
+</td>
+<td>
+
+📚 Vibe Coding + Agentic AI Roadmap
+
+Developer Learning System
+
+Structured learning for AI coding tools, agents, APIs, n8n, GitHub, AWS and Azure.
+
+Repository →
+
+</td>
+</tr>
+</table>
+
+🏗️ What I Build
+
+<details>
+<summary><b>🧠 Enterprise RAG Systems</b></summary>
+
+Documents + Business Data
+        ↓
+Query Routing / Rewriting
+        ↓
+Vector + Keyword Retrieval
+        ↓
+Reranking + Context Filtering
+        ↓
+LLM Reasoning
+        ↓
+Answer + Citations + Evidence
+
+</details>
+
+<details>
+<summary><b>🤖 AI Agents</b></summary>
+
+Goal → Plan → Tool → Action → Observe → Re-plan → Result
+
+Typical tools: APIs, SQL, browsers, files, search, vector databases, internal services and business workflows.
+
+</details>
+
+<details>
+<summary><b>🔁 AI Automation</b></summary>
+
+Trigger → n8n → API → Agent → Tool Call → Decision → Approval → Action → Logs
+
+</details>
+
+<details>
+<summary><b>🌐 Full-Stack AI</b></summary>
+
+React / Vite
+    ↓
+FastAPI / Node.js
+    ↓
+LLM + RAG + Agents
+    ↓
+SQL / MongoDB / Vector DB
+    ↓
+Docker + CI/CD
+    ↓
+AWS / Azure / Vercel / Render
+
+</details>
+
+🧪 Engineering Workflow
+
+<table>
+<tr><td align="center"><b>01</b><br>Idea</td><td align="center">→</td><td align="center"><b>02</b><br>Spec</td><td align="center">→</td><td align="center"><b>03</b><br>Architecture</td><td align="center">→</td><td align="center"><b>04</b><br>Build</td></tr>
+<tr><td align="center"><b>05</b><br>Test</td><td align="center">→</td><td align="center"><b>06</b><br>Evaluate</td><td align="center">→</td><td align="center"><b>07</b><br>Security</td><td align="center">→</td><td align="center"><b>08</b><br>Deploy</td></tr>
+<tr><td align="center"><b>09</b><br>Monitor</td><td align="center">→</td><td align="center"><b>10</b><br>Measure</td><td align="center">→</td><td align="center"><b>11</b><br>Improve</td><td align="center">→</td><td align="center"><b>12</b><br>Ship</td></tr>
+</table>
+
+🛡️ Production Mindset
+
+🔐 Secrets and environment-variable hygiene
+
+🧱 Input validation and schema checks
+
+🚫 Prompt-injection awareness
+
+📦 Dependency and supply-chain hygiene
+
+🧪 Automated unit and integration tests
+
+📊 Retrieval and RAG evaluation
+
+🎯 Grounded, citation-aware responses
+
+📝 Logging and tracing
+
+🔄 Retries, fallbacks and recovery
+
+💰 Token, cost and latency awareness
+
+👤 Human approval for sensitive actions
+
+📊 RAG Evaluation
+
+<table>
+<tr><th>Metric</th><th>Purpose</th></tr>
+<tr><td>Retrieval Precision</td><td>Checks whether retrieved chunks are relevant</td></tr>
+<tr><td>Context Recall</td><td>Checks whether required evidence was retrieved</td></tr>
+<tr><td>Faithfulness</td><td>Checks whether answers are grounded in context</td></tr>
+<tr><td>Answer Relevance</td><td>Checks whether the response answers the actual query</td></tr>
+<tr><td>Latency</td><td>Measures practical response speed</td></tr>
+<tr><td>Cost / Token Usage</td><td>Measures scalability and efficiency</td></tr>
+</table>
+
+🗺️ Learning Roadmap
+
+<details>
+<summary><b>01 — Software Foundations</b></summary>
+
+Python · JavaScript · Git · Linux/CLI · HTTP · REST · JSON · SQL · debugging · testing
+
+</details>
+
+<details>
+<summary><b>02 — ML / DL</b></summary>
+
+Statistics · classical ML · neural networks · CNNs · RNNs · LSTMs · Transformers · evaluation
+
+</details>
+
+<details>
+<summary><b>03 — GenAI</b></summary>
+
+LLM APIs · prompt engineering · context engineering · embeddings · vector databases · RAG
+
+</details>
+
+<details>
+<summary><b>04 — Agentic AI</b></summary>
+
+Tool calling · memory · planning · routing · multi-agent systems · MCP · guardrails · observability
+
+</details>
+
+<details>
+<summary><b>05 — Production Engineering</b></summary>
+
+FastAPI · PostgreSQL · Docker · GitHub Actions · CI/CD · monitoring · cloud deployment
+
+</details>
+
+<details>
+<summary><b>06 — Advanced AI Systems</b></summary>
+
+GraphRAG · multimodal AI · autonomous workflows · system design · evaluation · cost/latency optimization
+
+</details>
+
+💻 Core Computer Science
+
+DSA · OOP · DBMS · SQL · Operating Systems · Computer Networks · Compiler Design · Software Engineering · HCI
+
+These fundamentals support the AI systems work above and help turn prototypes into maintainable software.
+
+🔥 Currently Exploring
+
+Agentic AI Advanced RAG GraphRAG Multimodal AI System Design AI Automation Cloud Deployment Production Evaluation
+
+🤝 My AI Coding Philosophy
+
+Don't just make AI generate code. Make it generate systems you can explain, test, secure, deploy, and maintain.
+
+<details>
+<summary><b>How I use AI coding tools</b></summary>
+
+Define the problem.
+
+Write a clear specification.
+
+Give the model the right context.
+
+Generate small, reviewable changes.
+
+Run the code locally.
+
+Read errors instead of blindly retrying.
+
+Write tests.
+
+Review security and dependencies.
+
+Commit meaningful changes.
+
+Deploy only after verification.
+
+</details>
+
+📫 Connect
+
+<div align="center">
+
+
+
+
+
+</div>
+
+<div align="center">
+
+Build • Automate • Learn • Measure • Ship 🚀
+
+</div>
