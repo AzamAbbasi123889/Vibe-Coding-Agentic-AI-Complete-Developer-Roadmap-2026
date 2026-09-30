@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" role="img" aria-label="The vibe coding loop">
+<rect width="900" height="460" rx="20" fill="#F5F7FB"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#3B3F8C"/></marker></defs>
+<text x="450" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="30" font-weight="700" fill="#0B1630">The Vibe Coding Loop</text>
+<g font-family="Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#0B1630" text-anchor="middle">
+<rect x="60" y="150" width="150" height="80" rx="16" fill="#C9D3F5"/><text x="135" y="186">1. Describe</text><text x="135" y="210" font-size="14" font-weight="400">goal + constraints</text>
+<rect x="260" y="150" width="150" height="80" rx="16" fill="#B7F0DF"/><text x="335" y="186">2. Generate</text><text x="335" y="210" font-size="14" font-weight="400">AI writes code</text>
+<rect x="460" y="150" width="150" height="80" rx="16" fill="#FFE3B0"/><text x="535" y="186">3. Run</text><text x="535" y="210" font-size="14" font-weight="400">see what happens</text>
+<rect x="660" y="150" width="150" height="80" rx="16" fill="#E5D9FF"/><text x="735" y="186">4. Review</text><text x="735" y="210" font-size="14" font-weight="400">read the diff</text>
+<rect x="360" y="310" width="180" height="80" rx="16" fill="#FFC9C9"/><text x="450" y="346">5. Refine</text><text x="450" y="370" font-size="14" font-weight="400">fix, test, commit</text>
+</g>
+<g stroke="#3B3F8C" stroke-width="3" fill="none" marker-end="url(#a)">
+<path d="M210 190H254"/><path d="M410 190H454"/><path d="M610 190H654"/>
+<path d="M735 232Q735 350 546 350"/><path d="M360 350Q135 350 135 236"/></g>
+<text x="450" y="432" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="16" fill="#3B3F8C">You steer. The AI types. Never skip the Review step.</text>
+</svg>

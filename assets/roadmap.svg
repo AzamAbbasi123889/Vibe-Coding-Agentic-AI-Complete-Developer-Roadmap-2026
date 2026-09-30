@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-label="Learning roadmap">
+<rect width="900" height="360" rx="20" fill="#0B1630"/>
+<text x="450" y="46" text-anchor="middle" font-family="Georgia,serif" font-size="28" font-weight="700" fill="#fff">Your 6-Week Roadmap</text>
+<line x1="80" y1="190" x2="820" y2="190" stroke="#5B7CFF" stroke-width="4"/>
+<g font-family="Helvetica,Arial,sans-serif" text-anchor="middle">
+<circle cx="110" cy="190" r="20" fill="#2DE2B5"/><text x="110" y="196" font-size="16" font-weight="700" fill="#0B1630">W1</text><text x="110" y="240" font-size="15" fill="#fff">Mindset</text><text x="110" y="260" font-size="15" fill="#C9D3F5">+ basics</text>
+<circle cx="235" cy="190" r="20" fill="#8FA6FF"/><text x="235" y="196" font-size="16" font-weight="700" fill="#0B1630">W2</text><text x="235" y="240" font-size="15" fill="#fff">Tools</text><text x="235" y="260" font-size="15" fill="#C9D3F5">+ prompting</text>
+<circle cx="360" cy="190" r="20" fill="#FFB84D"/><text x="360" y="196" font-size="16" font-weight="700" fill="#0B1630">W3</text><text x="360" y="240" font-size="15" fill="#fff">Workflow</text><text x="360" y="260" font-size="15" fill="#C9D3F5">+ context</text>
+<circle cx="485" cy="190" r="20" fill="#FF8FA3"/><text x="485" y="196" font-size="16" font-weight="700" fill="#0B1630">W4</text><text x="485" y="240" font-size="15" fill="#fff">Debug</text><text x="485" y="260" font-size="15" fill="#C9D3F5">+ testing</text>
+<circle cx="610" cy="190" r="20" fill="#2DE2B5"/><text x="610" y="196" font-size="16" font-weight="700" fill="#0B1630">W5</text><text x="610" y="240" font-size="15" fill="#fff">Security</text><text x="610" y="260" font-size="15" fill="#C9D3F5">+ deploy</text>
+<circle cx="735" cy="190" r="20" fill="#8FA6FF"/><text x="735" y="196" font-size="16" font-weight="700" fill="#0B1630">W6</text><text x="735" y="240" font-size="15" fill="#fff">Agents</text><text x="735" y="260" font-size="15" fill="#C9D3F5">+ capstone</text>
+<text x="450" y="320" font-size="15" fill="#8FA6FF">About 6 to 8 hours per week. Ship something every week.</text></g></svg>

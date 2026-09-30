@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-label="Context layers">
+<rect width="900" height="500" rx="20" fill="#0B1630"/>
+<text x="450" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="30" font-weight="700" fill="#fff">What the AI Actually Sees</text>
+<g font-family="Helvetica,Arial,sans-serif" text-anchor="middle">
+<ellipse cx="450" cy="290" rx="380" ry="180" fill="#1B2A57"/><text x="450" y="150" font-size="17" fill="#8FA6FF">Project memory: CLAUDE.md / AGENTS.md / .cursorrules</text>
+<ellipse cx="450" cy="300" rx="290" ry="135" fill="#2A1F6B"/><text x="450" y="200" font-size="17" fill="#FFB84D">Files, docs and tools (@file, MCP servers)</text>
+<ellipse cx="450" cy="312" rx="190" ry="88" fill="#3B2E99"/><text x="450" y="266" font-size="17" fill="#2DE2B5">Conversation so far</text>
+<ellipse cx="450" cy="326" rx="100" ry="46" fill="#2DE2B5"/><text x="450" y="332" font-size="18" font-weight="700" fill="#0B1630">Your prompt</text>
+<text x="450" y="476" font-size="15" fill="#C9D3F5">Better context beats a cleverer prompt. Models forget; files do not.</text></g></svg>

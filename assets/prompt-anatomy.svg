@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" role="img" aria-label="Anatomy of a good prompt">
+<rect width="900" height="480" rx="20" fill="#F5F7FB"/>
+<text x="450" y="48" text-anchor="middle" font-family="Georgia,serif" font-size="30" font-weight="700" fill="#0B1630">Anatomy of a Good Coding Prompt</text>
+<g font-family="Helvetica,Arial,sans-serif">
+<rect x="60" y="80" width="780" height="56" rx="12" fill="#C9D3F5"/><text x="84" y="115" font-size="20" font-weight="700" fill="#0B1630">ROLE</text><text x="200" y="115" font-size="18" fill="#0B1630">You are a senior Python engineer.</text>
+<rect x="60" y="148" width="780" height="56" rx="12" fill="#B7F0DF"/><text x="84" y="183" font-size="20" font-weight="700" fill="#0B1630">GOAL</text><text x="200" y="183" font-size="18" fill="#0B1630">Add JWT login to my Flask API.</text>
+<rect x="60" y="216" width="780" height="56" rx="12" fill="#FFE3B0"/><text x="84" y="251" font-size="20" font-weight="700" fill="#0B1630">CONTEXT</text><text x="200" y="251" font-size="18" fill="#0B1630">Stack: Flask 3, SQLite, pytest. See app/models.py.</text>
+<rect x="60" y="284" width="780" height="56" rx="12" fill="#E5D9FF"/><text x="84" y="319" font-size="20" font-weight="700" fill="#0B1630">RULES</text><text x="200" y="319" font-size="18" fill="#0B1630">No new dependencies. Hash passwords. Keep functions small.</text>
+<rect x="60" y="352" width="780" height="56" rx="12" fill="#FFC9C9"/><text x="84" y="387" font-size="20" font-weight="700" fill="#0B1630">OUTPUT</text><text x="200" y="387" font-size="18" fill="#0B1630">Plan first, then diff. Add tests. Explain trade-offs.</text>
+<text x="450" y="448" text-anchor="middle" font-size="16" fill="#3B3F8C">Vague prompt = vague code. Specific prompt = reviewable code.</text></g></svg>

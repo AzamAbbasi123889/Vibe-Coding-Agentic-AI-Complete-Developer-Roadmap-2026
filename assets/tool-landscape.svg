@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="AI coding tool landscape">
+<rect width="900" height="520" rx="20" fill="#0B1630"/>
+<text x="450" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="30" font-weight="700" fill="#fff">The AI Coding Tool Landscape</text>
+<g font-family="Helvetica,Arial,sans-serif" text-anchor="middle">
+<rect x="40" y="80" width="250" height="400" rx="18" fill="#1B2A57"/><text x="165" y="118" font-size="21" font-weight="700" fill="#2DE2B5">App builders</text><text x="165" y="142" font-size="14" fill="#C9D3F5">prompt in, app out</text>
+<text x="165" y="200" font-size="18" fill="#fff">Lovable</text><text x="165" y="240" font-size="18" fill="#fff">Bolt.new</text><text x="165" y="280" font-size="18" fill="#fff">v0</text><text x="165" y="320" font-size="18" fill="#fff">Replit Agent</text>
+<text x="165" y="420" font-size="14" fill="#8FA6FF">Best for: beginners,</text><text x="165" y="440" font-size="14" fill="#8FA6FF">prototypes, landing pages</text>
+<rect x="325" y="80" width="250" height="400" rx="18" fill="#2A1F6B"/><text x="450" y="118" font-size="21" font-weight="700" fill="#FFB84D">AI editors / IDEs</text><text x="450" y="142" font-size="14" fill="#C9D3F5">AI inside your editor</text>
+<text x="450" y="200" font-size="18" fill="#fff">Cursor</text><text x="450" y="240" font-size="18" fill="#fff">Windsurf</text><text x="450" y="280" font-size="18" fill="#fff">GitHub Copilot (VS Code)</text><text x="450" y="320" font-size="18" fill="#fff">Cline / Roo Code</text>
+<text x="450" y="420" font-size="14" fill="#8FA6FF">Best for: real projects</text><text x="450" y="440" font-size="14" fill="#8FA6FF">you want to read and own</text>
+<rect x="610" y="80" width="250" height="400" rx="18" fill="#1B2A57"/><text x="735" y="118" font-size="21" font-weight="700" fill="#FF8FA3">Terminal agents</text><text x="735" y="142" font-size="14" fill="#C9D3F5">autonomous, multi-file</text>
+<text x="735" y="200" font-size="18" fill="#fff">Claude Code</text><text x="735" y="240" font-size="18" fill="#fff">Gemini CLI</text><text x="735" y="280" font-size="18" fill="#fff">OpenAI Codex CLI</text><text x="735" y="320" font-size="18" fill="#fff">Aider</text>
+<text x="735" y="420" font-size="14" fill="#8FA6FF">Best for: big refactors,</text><text x="735" y="440" font-size="14" fill="#8FA6FF">automation, power users</text>
+</g></svg>

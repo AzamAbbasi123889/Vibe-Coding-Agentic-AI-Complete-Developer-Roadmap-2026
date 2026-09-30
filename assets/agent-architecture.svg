@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" role="img" aria-label="Coding agent architecture">
+<rect width="900" height="440" rx="20" fill="#F5F7FB"/>
+<defs><marker id="b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#3B3F8C"/></marker></defs>
+<text x="450" y="48" text-anchor="middle" font-family="Georgia,serif" font-size="30" font-weight="700" fill="#0B1630">How a Coding Agent Works</text>
+<g font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#0B1630" text-anchor="middle">
+<rect x="40" y="170" width="140" height="80" rx="14" fill="#FFE3B0"/><text x="110" y="216">You</text>
+<rect x="250" y="150" width="180" height="120" rx="14" fill="#E5D9FF"/><text x="340" y="205">LLM</text><text x="340" y="230" font-size="14" font-weight="400">plans + decides</text>
+<rect x="520" y="90" width="150" height="60" rx="14" fill="#B7F0DF"/><text x="595" y="127">Read files</text>
+<rect x="520" y="180" width="150" height="60" rx="14" fill="#B7F0DF"/><text x="595" y="217">Edit code</text>
+<rect x="520" y="270" width="150" height="60" rx="14" fill="#B7F0DF"/><text x="595" y="307">Run commands</text>
+<rect x="730" y="170" width="140" height="80" rx="14" fill="#FFC9C9"/><text x="800" y="205">Your</text><text x="800" y="228">codebase</text></g>
+<g stroke="#3B3F8C" stroke-width="3" fill="none" marker-end="url(#b)"><path d="M180 210H244"/><path d="M430 190Q480 120 514 120"/><path d="M430 210H514"/><path d="M430 235Q480 300 514 300"/><path d="M670 120Q720 150 724 190"/><path d="M670 210H724"/><path d="M670 300Q720 270 724 240"/></g>
+<text x="450" y="395" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="16" fill="#3B3F8C">Loop: think, use a tool, observe the result, think again, until done.</text></svg>
